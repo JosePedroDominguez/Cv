@@ -1,5 +1,6 @@
-.presentacion__contenedor__links{
+.presentacion__contenedor__links {
     width: 100%;
-   
+    
+    display: flex;
 
 }
